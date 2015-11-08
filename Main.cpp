@@ -1,5 +1,5 @@
 //C++ Calculator
-//Aleksandar Bayrev
+//Aleksandar Bayrev, 2015
 
 #include<iostream>
 #include<math.h>
